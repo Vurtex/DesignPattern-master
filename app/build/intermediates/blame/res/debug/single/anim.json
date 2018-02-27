@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]
