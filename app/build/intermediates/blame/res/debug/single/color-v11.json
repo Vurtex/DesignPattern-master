@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",

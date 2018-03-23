@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/Vurtex/Downloads/DesignPattern-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/Users/Vurtex/Downloads/DesignPattern-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }

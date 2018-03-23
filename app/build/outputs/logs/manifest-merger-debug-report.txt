@@ -1,132 +1,175 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/5edd5ee3f580aaa9da1d37dae18c6700/AndroidManifest.xml:17:1-27:12
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/6708fdbb96634d17b640f4720e9b763d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e64f0e2e28aef4297d90426278984d68/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7a5b09874839e69127421b1809f6cf6b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/87528524709cc6c4a577b7aab19a496f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/d88809946be285726619509665b36c10/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/bc27d9a638124f0a898ee05e3ce6413b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d3f67bc671baa166a781bcbd4e90d233/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ece8627dbe73f238e656255c27d87f2d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/983f29c6de70556374879d7b9af07dd1/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
 	package
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:3:5-48
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:2:11-69
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:5:5-49:19
-MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] /Users/Vurtex/.android/build-cache/a4086b133a23a26996909221c653e6df7debf090/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/Vurtex/.android/build-cache/8a7a517fd665c17665f815d8b7ce496410638d21/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Vurtex/.android/build-cache/9280fcc97f7a7a8822da4a3a2174c880dc0d7efb/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Vurtex/.android/build-cache/7f7d8cdd92e014205c03749cbaa3c9352b125f4e/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Vurtex/.android/build-cache/2a0f2de516ceaa594403f9ac663dd9d0941f398c/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Vurtex/.android/build-cache/ac6011b56a235cb2ac809b135c412168db9ca44a/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Vurtex/.android/build-cache/5bf4c74deb73ef2335ce27343a74e2cc0f8294e2/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /Users/Vurtex/.android/build-cache/3b3629c088f2d9ec72faabc470739864a87b5360/output/AndroidManifest.xml:25:5-20
-	android:label
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:9:9-41
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:5:5-49:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/5edd5ee3f580aaa9da1d37dae18c6700/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/5edd5ee3f580aaa9da1d37dae18c6700/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e64f0e2e28aef4297d90426278984d68/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e64f0e2e28aef4297d90426278984d68/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7a5b09874839e69127421b1809f6cf6b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7a5b09874839e69127421b1809f6cf6b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/87528524709cc6c4a577b7aab19a496f/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/87528524709cc6c4a577b7aab19a496f/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/d88809946be285726619509665b36c10/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/d88809946be285726619509665b36c10/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/bc27d9a638124f0a898ee05e3ce6413b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/bc27d9a638124f0a898ee05e3ce6413b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d3f67bc671baa166a781bcbd4e90d233/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d3f67bc671baa166a781bcbd4e90d233/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ece8627dbe73f238e656255c27d87f2d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ece8627dbe73f238e656255c27d87f2d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/983f29c6de70556374879d7b9af07dd1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/983f29c6de70556374879d7b9af07dd1/AndroidManifest.xml:25:5-20
 	android:supportsRtl
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:10:9-35
-	android:allowBackup
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:8:9-38
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:11:9-40
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:6:9-47
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:6:9-47
 activity#com.example.jingbin.designpattern.MainActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.example.jingbin.designpattern.observer.ObserverActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:19:9-21:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:19:9-21:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:21:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:21:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:20:13-54
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:20:13-54
 activity#com.example.jingbin.designpattern.factory.FactoryActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:22:9-24:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:22:9-24:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:24:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:24:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:23:13-52
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:23:13-52
 activity#com.example.jingbin.designpattern.singleton.SingletonActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:25:9-27:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:25:9-27:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:27:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:27:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:26:13-56
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:26:13-56
 activity#com.example.jingbin.designpattern.strategy.StrategyActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:28:9-30:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:28:9-30:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:30:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:30:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:29:13-54
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:29:13-54
 activity#com.example.jingbin.designpattern.adapter.AdapterActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:31:9-33:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:31:9-33:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:33:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:33:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:32:13-52
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:32:13-52
 activity#com.example.jingbin.designpattern.command.CommandActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:34:9-36:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:34:9-36:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:36:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:36:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:35:13-52
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:35:13-52
 activity#com.example.jingbin.designpattern.decorator.DecoratorActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:37:9-39:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:37:9-39:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:39:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:39:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:38:13-56
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:38:13-56
 activity#com.example.jingbin.designpattern.facade.FacadeActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:40:9-42:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:40:9-42:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:42:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:42:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:41:13-50
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:41:13-50
 activity#com.example.jingbin.designpattern.templatemethod.TemplateMethodActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:43:9-45:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:43:9-45:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:45:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:45:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:44:13-66
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:44:13-66
 activity#com.example.jingbin.designpattern.state.StateActivity
-ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:46:9-48:52
+ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:46:9-48:52
 	android:screenOrientation
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:48:13-49
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:48:13-49
 	android:name
-		ADDED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml:47:13-48
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml:47:13-48
 uses-sdk
-INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] /Users/Vurtex/.android/build-cache/a4086b133a23a26996909221c653e6df7debf090/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/Vurtex/.android/build-cache/8a7a517fd665c17665f815d8b7ce496410638d21/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Vurtex/.android/build-cache/9280fcc97f7a7a8822da4a3a2174c880dc0d7efb/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Vurtex/.android/build-cache/7f7d8cdd92e014205c03749cbaa3c9352b125f4e/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Vurtex/.android/build-cache/2a0f2de516ceaa594403f9ac663dd9d0941f398c/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Vurtex/.android/build-cache/ac6011b56a235cb2ac809b135c412168db9ca44a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Vurtex/.android/build-cache/5bf4c74deb73ef2335ce27343a74e2cc0f8294e2/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:24.2.1] /Users/Vurtex/.android/build-cache/3b3629c088f2d9ec72faabc470739864a87b5360/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.jakewharton:butterknife:8.4.0] /Users/Vurtex/.android/build-cache/5c629a21dd4c8509993e20c19bd212bc23e894b3/output/AndroidManifest.xml:5:5-43
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/5edd5ee3f580aaa9da1d37dae18c6700/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/5edd5ee3f580aaa9da1d37dae18c6700/AndroidManifest.xml:21:5-23:78
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/6708fdbb96634d17b640f4720e9b763d/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/6708fdbb96634d17b640f4720e9b763d/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e64f0e2e28aef4297d90426278984d68/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e64f0e2e28aef4297d90426278984d68/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7a5b09874839e69127421b1809f6cf6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7a5b09874839e69127421b1809f6cf6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/87528524709cc6c4a577b7aab19a496f/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/87528524709cc6c4a577b7aab19a496f/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/d88809946be285726619509665b36c10/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/d88809946be285726619509665b36c10/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/bc27d9a638124f0a898ee05e3ce6413b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/bc27d9a638124f0a898ee05e3ce6413b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d3f67bc671baa166a781bcbd4e90d233/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d3f67bc671baa166a781bcbd4e90d233/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ece8627dbe73f238e656255c27d87f2d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ece8627dbe73f238e656255c27d87f2d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/983f29c6de70556374879d7b9af07dd1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/983f29c6de70556374879d7b9af07dd1/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.android/build-cache/4fcf07d7c14bb5a5d7b602511ede99153da0d3ac/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/Vurtex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/5edd5ee3f580aaa9da1d37dae18c6700/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Vurtex/Downloads/DesignPattern-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vurtex/AndroidStudioProjects/DesignPattern-master/app/src/main/AndroidManifest.xml

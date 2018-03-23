@@ -13,7 +13,7 @@
         android:label="Tests for com.example.jingbin.designpattern"
         android:targetPackage="com.example.jingbin.designpattern" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
